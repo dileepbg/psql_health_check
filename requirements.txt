@@ -1,0 +1,4 @@
+argparse
+psycopg2
+logging
+json
