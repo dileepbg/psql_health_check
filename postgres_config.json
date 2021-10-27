@@ -2,7 +2,7 @@
         "psql_server_1": {
 		    "hostname": "<hostname/ip>",
 		    "username": "<username>",
-        "password": "<password>",
+        	    "password": "<password>",
 		    "db_list": ["db1","db2","db3"]
 	},
 
@@ -10,7 +10,7 @@
         "psql_server_2": {
 		    "hostname": "<hostname/ip>",
 		    "username": "<username>",
-        "password": "<password>",
+                    "password": "<password>",
 		    "db_list": ["db1","db2","db3"]
 	}
 }
